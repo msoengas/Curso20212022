@@ -10,7 +10,7 @@ A nivel técnico, este es el proceso normal que el alumno tendrá que seguir:
 * Si ya has realizado el fork sobre este repositorio, deberás sincronizar tu repositorio con la versión actual. Para ello debes [configurar un remote para el fork](https://help.github.com/articles/configuring-a-remote-for-a-fork) y [sincronizar tu fork](https://help.github.com/articles/syncing-a-fork). Básicamente debe:
  * Establece el remote: 
  
-        git remote add upstream https://github.com/AEPIA-WebSemanticaDatosEnlazados/Curso2020201
+        git remote add upstream https://github.com/AEPIA-WebSemanticaDatosEnlazados/Curso20212022
 
  * Recuperar cualquier cambio hecho en él: 
  
